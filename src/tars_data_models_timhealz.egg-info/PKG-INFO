@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: tars-data-models-timhealz
-Version: 0.0.1
+Version: 0.0.4
 Summary: Package for storing SQLAlchemy data models used across apps
 Home-page: https://github.com/timhealz/tars-data-models
 Author: Tim Healy

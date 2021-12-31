@@ -11,8 +11,6 @@ from sqlalchemy import (
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.sql import func
 
-from timhealz.common.utils import get_mysql_db_engine
-
 
 Base = declarative_base()
 
@@ -67,8 +65,3 @@ class Transaction(Base):
     def get_dict(self):
         return {col.name: getattr(self, col.name) for col in self.__table__.columns}
 
-
-if __name__ == "__main__":
-    db_engine = get_mysql_db_engine()
-
-    Base.metadata.create_all(db_engine)

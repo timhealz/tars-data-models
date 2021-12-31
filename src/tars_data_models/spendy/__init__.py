@@ -1,0 +1,1 @@
+from tars_data_models.spendy.transaction import Transaction

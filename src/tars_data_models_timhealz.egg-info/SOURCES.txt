@@ -2,8 +2,9 @@ LICENSE
 README.md
 pyproject.toml
 setup.cfg
-src/spendy/__init__.py
-src/spendy/transaction.py
+src/tars_data_models/__init__.py
+src/tars_data_models/spendy/__init__.py
+src/tars_data_models/spendy/transaction.py
 src/tars_data_models_timhealz.egg-info/PKG-INFO
 src/tars_data_models_timhealz.egg-info/SOURCES.txt
 src/tars_data_models_timhealz.egg-info/dependency_links.txt

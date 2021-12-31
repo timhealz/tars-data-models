@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: tars-data-models-timhealz
+Version: 0.0.1
+Summary: Package for storing SQLAlchemy data models used across apps
+Home-page: https://github.com/timhealz/tars-data-models
+Author: Tim Healy
+Author-email: healyt22@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/timhealz/tars-data-models/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# TARS Data Models
+
+Under Construction
+
